@@ -1,0 +1,367 @@
+Molecule name,RowID,Original_SMILES,Error
+Molecule_957,957,[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[O-]S(=O)(=O)C1=CC(=CC=C1C=CC1=CC=C(C=C1S([O-])(=O)=O)NC1N=C(NC2C=C(C=C3C=C(C(N=NC4C=CC=CC=4)=C(O)C3=2)S([O-])(=O)=O)S([O-])(=O)=O)N=C(N=1)N1CCOCC1)NC1N=C(NC2C=C(C=C3C=C(C(N=NC4C=CC=CC=4)=C(O)C3=2)S([O-])(=O)=O)S([O-])(=O)=O)N=C(N=1)N1CCOCC1, Size
+Molecule_24,24,CC(=O)O[Zr](=O)OC(C)=O, Organometallics
+Molecule_150,150,COB1OB(OB(O1)OC)OC, Organometallics
+Molecule_436,436,CC(C)C(=O)O[Zr](OC(=O)C(C)C)(OC(=O)C(C)C)OC(=O)C(C)C, Organometallics
+Molecule_441,441,C1=CC=CC2=[S][Zn+2]3([O-]N4C=CC=CC4=[S]3)[O-]N21, Organometallics
+Molecule_679,679,O[Cu]OC(=O)O[Cu]O, Organometallics
+Molecule_784,784,CC(C)O[Al]=O, Organometallics
+Molecule_805,805,C1CO[Sb]2OCCO[Sb](O1)OCCO2, Organometallics
+Molecule_935,935,O=C1O[Mn]OC1=O, Organometallics
+Molecule_938,938,CC[Al](CC)CC, Organometallics
+Molecule_951,951,CCCCCCCC[Sn](=O)CCCCCCCC, Organometallics
+Molecule_1149,1149,ClC1C2C(=C3N=C4N=C(N=C5C6=C(C7=NC8=NC(=NC=2N3[Cu]N75)C2=C8C(Br)=C(Cl)C(Cl)=C2Cl)C(Cl)=C(Br)C(Cl)=C6Br)C2=C4C(Cl)=C(Cl)C(Br)=C2Cl)C(Br)=C(Cl)C=1Br, Organometallics
+Molecule_1527,1527,O[Zr](=O)OC(=O)O[Zr](O)=O, Organometallics
+Molecule_1603,1603,CC(C)O[Ti](OC(C)C)(OC(C)C)OC(C)C, Organometallics
+Molecule_1767,1767,CCO[Ti](OCC)(OCC)OCC, Organometallics
+Molecule_1869,1869,[Cr]#C[Cr]C#[Cr], Organometallics
+Molecule_1883,1883,CC1C=[C-](C=C1)[Mn+]([C-]#[O+])([C-]#[O+])[C-]#[O+], Organometallics
+Molecule_1904,1904,CC(C)(C)CCC(C)(C)C(=O)O[Sn](CCCCCCCC)(CCCCCCCC)OC(=O)C(C)(C)CCC(C)(C)C, Organometallics
+Molecule_1936,1936,CCCCCCCC[Sn]1(CCCCCCCC)OC(=O)CS1, Organometallics
+Molecule_1967,1967,C[Sn](C)(SCC(=O)OCC(CCCC)CC)SCC(=O)OCC(CCCC)CC, Organometallics
+Molecule_1984,1984,CCCCCCCC[Sn](Cl)(Cl)CCCCCCCC, Organometallics
+Molecule_2251,2251,CCCCCCCC[Sn](CCCCCCCC)(OC(=O)CCCCCCCCCCC)OC(=O)CCCCCCCCCCC, Organometallics
+Molecule_2320,2320,OC(CO)C(O)C(O)C(O)C(=O)O[Fe]OC(=O)C(O)C(O)C(O)C(O)CO, Organometallics
+Molecule_2346,2346,O[Bi]1OC2=CC=CC=C2C(=O)O1, Organometallics
+Molecule_2347,2347,CC(C)CCCCCOP1(OC(C)CC)[S-][Zn+2]2([S-]P(OC(C)CC)(OCCCCCC(C)C)=[S]2)[S]=1, Organometallics
+Molecule_2472,2472,C[Sn](C)(Cl)Cl, Organometallics
+Molecule_2474,2474,CC(=CC(=O)OCC)O[Ti](OC(C)=CC(=O)OCC)(OC(C)C)OC(C)C, Organometallics
+Molecule_176,176,[Na+].[Na+].[Na+].[Na+].N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N, Organometallics
+Molecule_704,704,O.CCCCCCCCCCCCCCCCCC(=O)O[AlH]OC(=O)C1C=CC=CC=1, Organometallics
+Molecule_43,43,CCC1C=CC=CC=1.CC%91.[*]%91, Mixture
+Molecule_131,131,[Na+].C%91.[*]%91.C1C=CC=C2[N-]N=NC2=1, Mixture
+Molecule_292,292,Cl.NC(=N)[O-].OC[P+](CO)(CO)CO, Mixture
+Molecule_309,309,NCCCCCCN.OC(=O)CCCCCCCCC(O)=O, Mixture
+Molecule_334,334,COC1C=C(O)C(=CC=1S([O-])(=O)=O)C(=O)C1C=CC=CC=1.ClC1C=CC(=CC=1)[S+](C1C=CC(Cl)=CC=1)C1C=CC(Cl)=CC=1, Mixture
+Molecule_336,336,CC(=O)NC(CCC(O)=O)C(O)=O.CC(C)CC(N)C1=CC=CC=C1N1CCCCC1, Mixture
+Molecule_387,387,C%91.NS(=O)(=O)C1C=CC=CC=1.[*]%91, Mixture
+Molecule_628,628,C%91.CCNS(=O)(=O)C1C=CC=CC=1.[*]%91, Mixture
+Molecule_647,647,CCCCCCCCOC(=O)C1C=CC=CC=1C(=O)OCCCCCCCC.C%91.C%92.[*]%91.[*]%92, Mixture
+Molecule_707,707,[Cu+2].C[N+](C)(CCCCCCCCCCCCCCCCCC)CCCCCCCCCCCCCCCCCC.[O-]S(=O)(=O)C1C=C2C3[N-]C(=NC4=NC(=NC5[N-]C(N=C6N=C(N=3)C3=CC=CC=C36)=C3C=CC=CC3=5)C3=CC=CC=C34)C2=CC=1, Mixture
+Molecule_741,741,CCC[N+](CC=C)(CCC)CCC.N#C[N-]C#N, Mixture
+Molecule_747,747,C%91.C%92.C%93.C%94.C%95.C%96.O=P(OC1C=CC=CC=1)(OC1C=CC=CC=1)OC1C=CC=CC=1.[*]%91.[*]%92.[*]%93.[*]%94.[*]%95.[*]%96, Mixture
+Molecule_842,842,[Zn+2].CCCCCCCCCCCCCCCCCCCCCCC([O-])=O.CCCCCCCCCCCCCCCCCCCCC([O-])=O, Mixture
+Molecule_920,920,CC[N+](CC)(CC)CC.[O-]S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F, Mixture
+Molecule_969,969,[Na+].[Na+].[Na+].[Cr+3].C=CS(=O)(=O)C1C=CC(=CC=1)NC1N=C(Cl)N=C(NC2=CC3=CC(=C(N=NC4=CC(=CC=C4[O-])[N+]([O-])=O)C([O-])=C3C=C2)S([O-])(=O)=O)N=1.[O-]S(=O)(=O)C1C=CC(N=NC2=C3C=CC=CC3=CC=C2[O-])=C2C=CC(=CC=12)[N+]([O-])=O, Mixture
+Molecule_998,998,CC(O)CN.CC(O)CNC(O)=O, Mixture
+Molecule_1035,1035,CCCC[N+](CC1C=CC=CC=1)(CCCC)CCCC.[O-]S(=O)(=O)C1=CC=C(O)C2=CC=CC=C12, Mixture
+Molecule_1174,1174,[H+].[Cr+3].CCCCC(CN)CC.CC1=NN(C2C=CC=CC=2)C(=O)[C-]1N=NC1=CC=CC=C1C([O-])=O.CC1=NN(C2C=CC=CC=2)C(=O)[C-]1N=NC1=CC=CC=C1C([O-])=O, Mixture
+Molecule_1194,1194,C%91.C%92.O=C(OCCOCCOC(=O)C1=CC=CC=C1)C1=CC=CC=C1.[*]%91.[*]%92, Mixture
+Molecule_1453,1453,CC(C)(O)C([O-])=O.C[N+](C)(C)CC1C=CC=CC=1, Mixture
+Molecule_1507,1507,CC1OC1P(O)(O)=O.CC(N)C1C=CC=CC=1, Mixture
+Molecule_1525,1525,C%91.C%92.OC1C=CC=CC=1.[*]%91.[*]%92, Mixture
+Molecule_1626,1626,[Na+].CCCCCCCCCCCCOC(=O)C(CC(=O)OCCCCCCCCCCCC)S([O-])(=O)=O.C%91.C%92.[*]%91.[*]%92, Mixture
+Molecule_1686,1686,C%91.CC(CC(C)CC(O)=O)C(O)=O.[*]%91, Mixture
+Molecule_1690,1690,[H+].[Cr+3].CCCCC(COCCCN)CC.[O-]C1C=C(C=CC=1N=NC1C2=CC=CC=C2C=CC=1[O-])[N+]([O-])=O.[O-]C1C=CC2=CC=CC=C2C=1N=NC1C=C(C=CC=1[O-])[N+]([O-])=O, Mixture
+Molecule_1731,1731,OC(=O)C1=CC(=C(C=C1C(O)=O)C(O)=O)C(O)=O.C1CNC(=N1)C1C=CC=CC=1.C1CNC(=N1)C1C=CC=CC=1, Mixture
+Molecule_1822,1822,[H+].[Cu+2].CCCCCCCCC=CCCCCCCCCN.[O-]S%91(=O)=O.[*]%91.C1=CC=CC2=C3[N-]C(N=C4N=C(N=C5[N-]C(=NC6=NC(=N3)C3=CC=CC=C36)C3=CC=CC=C35)C3=CC=CC=C34)=C21, Mixture
+Molecule_1843,1843,[Al+3].[Al+3].NC1=CC(=CC2=CC(=C(N=NC3C=CC=CC=3)C(O)=C12)S([O-])(=O)=O)S([O-])(=O)=O.NC1C=C(C=C2C=C(C(N=NC3C=CC=CC=3)=C(O)C=12)S([O-])(=O)=O)S([O-])(=O)=O.NC1C=C(C=C2C=C(C(N=NC3C=CC=CC=3)=C(O)C=12)S([O-])(=O)=O)S([O-])(=O)=O, Mixture
+Molecule_1886,1886,CC1C=C(CC(C)CC(C)(C)C)N(O)C(=O)C=1.NCCCO, Mixture
+Molecule_1937,1937,OC(=O)C1=CC(=C(C=C1C(O)=O)C(O)=O)C(O)=O.C1CN=C(N1)C1C=CC=CC=1, Mixture
+Molecule_1991,1991,[Ba+2].CCC1C=C(N=NC2=C3C=CC=CC3=CC=C2O)C(=CC=1Cl)S([O-])(=O)=O.CCC1=CC(N=NC2=C3C=CC=CC3=CC=C2O)=C(C=C1Cl)S([O-])(=O)=O, Mixture
+Molecule_2007,2007,C%91.CC(CC#N)CC(C)C#N.[*]%91, Mixture
+Molecule_2008,2008,[Na+].[Na+].[Na+].[Na+].CC(=O)NC1C=CC(=C2C=C(C=C(O)C2=1)S([O-])(=O)=O)S([O-])(=O)=O.[O-]S(=O)(=O)C1C=CC(=CC=1)N=NC1C=CC=C2C=C(C=CC2=1)S([O-])(=O)=O, Mixture
+Molecule_2170,2170,COCCOCCO.C%91.C%92.[*]%91.[*]%92, Mixture
+Molecule_2291,2291,C[N+](C)(C)C.[O-]C(=O)C1=CC=CC=C1C(O)=O, Mixture
+Molecule_2435,2435,[Ti+4].CC(=O)[CH-]C(=O)OCC.CC(=O)[CH-]C(=O)OCC.CC(C)C[O-].CC(C)C[O-], Mixture
+Molecule_12,12,[F-].[F-].[Sr+2], Inorganic
+Molecule_13,13,[K+].[K+].[O-]S([O-])(=O)=O, Inorganic
+Molecule_17,17,[O-2].[O-2].[O-2].[O-2].[V+5].[Fe+3], Inorganic
+Molecule_21,21,[Na+].O=[Sb-](=O)=O, Inorganic
+Molecule_31,31,[S-2].[Zn+2], Inorganic
+Molecule_32,32,O=[Sr], Inorganic
+Molecule_36,36,[Bi+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O, Inorganic
+Molecule_38,38,[OH-].[OH-].[Ba+2], Inorganic
+Molecule_40,40,O=[Sm]O[Sm]=O, Inorganic
+Molecule_44,44,[AlH3].[Ni], Inorganic
+Molecule_51,51,[Na+].[Na+].[O-][Si](=O)O[Si]([O-])=O, Inorganic
+Molecule_66,66,[Ga]#[As], Inorganic
+Molecule_109,109,[OH-].[OH-].[OH-].[Co+3], Inorganic
+Molecule_111,111,[Mg+2].[Mg+2].[Mg+2].[K+].[K+].[K+].[K+].[O-][Ti]([O-])=O.[O-][Ti]([O-])([O-])[O-], Inorganic
+Molecule_121,121,[Al+3].[Al+3].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O, Inorganic
+Molecule_132,132,[Na+].[Na+].[Na+].[Na+].[Na+].[O-]P(=O)(OP([O-])([O-])=O)OP([O-])([O-])=O, Inorganic
+Molecule_139,139,[Cu], Inorganic
+Molecule_145,145,[Ca+2].[O-][V](=O)=O.[O-][V](=O)=O, Inorganic
+Molecule_158,158,[F-].[F-].[F-].[K+].[Zn+2], Inorganic
+Molecule_174,174,[O-2].[O-2].[O-2].[O-2].[K+].[K+].[Mo+6], Inorganic
+Molecule_185,185,[NH4+].O=[Re-](=O)(=O)=O, Inorganic
+Molecule_199,199,[Cu+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O, Inorganic
+Molecule_200,200,[BiH3], Inorganic
+Molecule_225,225,[Na+].NS([O-])(=O)=O, Inorganic
+Molecule_229,229,[O-2].[Cu+].[Cu+], Inorganic
+Molecule_230,230,[O-2].[O-2].[O-2].[O-2].[Na+].[Na+].[Mo+6], Inorganic
+Molecule_237,237,[Cl-].[Cu+], Inorganic
+Molecule_243,243,ClB(Cl)Cl, Inorganic
+Molecule_248,248,[O-2].[Ni+2], Inorganic
+Molecule_252,252,[K+].[O-][Mn](=O)(=O)=O, Inorganic
+Molecule_257,257,[Li+].[OH-], Inorganic
+Molecule_263,263,O=[Nd]O[Nd]=O, Inorganic
+Molecule_267,267,[NH4+].[NH4+].[O-]P([O-])(O)=O, Inorganic
+Molecule_280,280,[OH-].[OH-].[OH-].[OH-].[Na+].[Al+3], Inorganic
+Molecule_291,291,[NH4+].[NH4+].[NH4+].[NH4+].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].O=[Mo+2]=O.O=[Mo+2]=O.O=[Mo+2]=O.O=[Mo+2]=O.O=[Mo+2]=O.O=[Mo+2]=O.O=[Mo+4].O=[Mo+4], Inorganic
+Molecule_302,302,[Na+].[Na+].[O-]P(O)(=O)OP([O-])(O)=O, Inorganic
+Molecule_311,311,[OH-].[OH-].[OH-].[Cl-].[Cu+2].[Cu+2], Inorganic
+Molecule_326,326,[O-2].[Mn+2], Inorganic
+Molecule_327,327,[Sr+2].[O-]P([O-])(O)=O, Inorganic
+Molecule_331,331,[NH4+].[NH4+].[O-]S([O-])=O, Inorganic
+Molecule_354,354,[O-2].[O-2].[O-2].[O-2].[V+5].[Ce+3], Inorganic
+Molecule_359,359,[Ba+2].[O-]S([O-])(=O)=O, Inorganic
+Molecule_362,362,[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Mo+6].[Mo+6].[Mo+6], Inorganic
+Molecule_397,397,[F-].[F-].[Mg+2].[Mg+2].[Mg+2].[K+].[O-][Si]([O-])=O.[O-][Si]([O-])=O.[O-][Si]([O-])=O.O=[Al+], Inorganic
+Molecule_398,398,[K+].[O-][V](=O)=O, Inorganic
+Molecule_405,405,[Mo], Inorganic
+Molecule_407,407,[K+].[O-]P=O, Inorganic
+Molecule_408,408,[H+].[H+].O=[Mo-2](=O)(=O)=O, Inorganic
+Molecule_412,412,[Mn], Inorganic
+Molecule_419,419,[Li+].[Fe+2].[O-]P([O-])([O-])=O, Inorganic
+Molecule_423,423,[O-2].[O-2].[O-2].[O-2].[O-2].[Ta+5].[Ta+5], Inorganic
+Molecule_437,437,[Na+].[O-]Cl(=O)(=O)=O, Inorganic
+Molecule_439,439,[NH4+].[Cl-], Inorganic
+Molecule_451,451,[Cl-].[Cl-].[Cl-].[Fe+3], Inorganic
+Molecule_456,456,[V+3].[V+3].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O, Inorganic
+Molecule_470,470,[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Y+3].[Y+3].[Y+3], Inorganic
+Molecule_471,471,[S] |^3:0|, Inorganic
+Molecule_477,477,O=[La]O[La]=O, Inorganic
+Molecule_506,506,[Na+].[Na+].[O-]P([O-])(=O)F, Inorganic
+Molecule_509,509,[O-][N+](=O)O[Zr](=O)O[N+]([O-])=O, Inorganic
+Molecule_523,523,[NH4+].[Mg+2].[O-]P([O-])([O-])=O, Inorganic
+Molecule_542,542,[NH4+].[Al+3].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O, Inorganic
+Molecule_551,551,[Au], Inorganic
+Molecule_561,561,[Sr+2].[O-][Ti]([O-])=O, Inorganic
+Molecule_570,570,[Ca+2].[O-][Sn]([O-])=O, Inorganic
+Molecule_581,581,[O-2].[O-2].[O-2].[O-2].[V+5].[Er+3], Inorganic
+Molecule_583,583,[Zn+2].[Zn+2].[Zn+2].[O-]B([O-])[O-].[O-]B([O-])[O-], Inorganic
+Molecule_599,599,[Ti], Inorganic
+Molecule_606,606,[NH4+].NS([O-])(=O)=O, Inorganic
+Molecule_617,617,O=[Mo](=O)=O, Inorganic
+Molecule_629,629,[Pb+4].[O-][Si]([O-])=O.[O-][Si]([O-])=O, Inorganic
+Molecule_631,631,[S-2].[S-2].[S-2].[Ce+3].[Ce+3], Inorganic
+Molecule_635,635,[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[Na+].[Sb+5], Inorganic
+Molecule_637,637,F[La](F)F, Inorganic
+Molecule_638,638,[Mg+2].F[Si-2](F)(F)(F)(F)F, Inorganic
+Molecule_653,653,[Na+].[Na+].[O-]P([O-])=O, Inorganic
+Molecule_660,660,[OH-].[OH-].[OH-].[Al+3], Inorganic
+Molecule_669,669,[K+].[K+].F[Ta-2](F)(F)(F)(F)(F)F, Inorganic
+Molecule_681,681,[SbH3], Inorganic
+Molecule_690,690,[B+3].[B+3].[B+3].[B+3].[B+3].[B+3].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-][Zn+].[O-][Zn+], Inorganic
+Molecule_693,693,[Al+3].[O-]P([O-])([O-])=O, Inorganic
+Molecule_700,700,[Na+].[Br-], Inorganic
+Molecule_731,731,[Li+].F[P-](F)(F)(F)(F)F, Inorganic
+Molecule_743,743,[Cu+2].[O-]S([O-])(=O)=O, Inorganic
+Molecule_758,758,O=[Sb]O[Sb]=O, Inorganic
+Molecule_762,762,F[Nd](F)F, Inorganic
+Molecule_773,773,[Be], Inorganic
+Molecule_777,777,O=[Mo]=O, Inorganic
+Molecule_778,778,P, Inorganic
+Molecule_794,794,[Ca+2].[Br-].[Br-], Inorganic
+Molecule_800,800,[O-2].[Cu+2], Inorganic
+Molecule_809,809,[Na+].[Na+].[O-]S([O-])(=O)=O, Inorganic
+Molecule_816,816,[Co+2].[O-][W]([O-])(=O)=O, Inorganic
+Molecule_819,819,[Co+2].NS([O-])(=O)=O.NS([O-])(=O)=O, Inorganic
+Molecule_834,834,[S-2].[S-2].[S-2].[Bi+3].[Bi+3], Inorganic
+Molecule_846,846,[F-].[F-].[F-].[Ce+3], Inorganic
+Molecule_855,855,[O-2].[O-2].[Sn+4], Inorganic
+Molecule_856,856,[Na+].[O-][V](=O)=O, Inorganic
+Molecule_863,863,[Cl-].[Fe+3].[O-]S([O-])(=O)=O, Inorganic
+Molecule_871,871,[O-2].[Ca+2], Inorganic
+Molecule_892,892,O=[Sb](=O)O[Sb](=O)=O, Inorganic
+Molecule_893,893,B, Inorganic
+Molecule_947,947,[Fe+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O, Inorganic
+Molecule_963,963,[O-2].[O-2].[Ti+2], Inorganic
+Molecule_980,980,[La+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O, Inorganic
+Molecule_988,988,[S-2].[Ba+2], Inorganic
+Molecule_996,996,[Sn+2].F[B-](F)(F)F.F[B-](F)(F)F, Inorganic
+Molecule_1022,1022,[Na+].[O-][PH2]=O, Inorganic
+Molecule_1028,1028,N12[Si]34N5[Si]61N3[Si]52N64, Inorganic
+Molecule_1029,1029,[Fe+2].[O-]S([O-])(=O)=O, Inorganic
+Molecule_1031,1031,O[Cu]O, Inorganic
+Molecule_1036,1036,[Ag], Inorganic
+Molecule_1047,1047,[K+].[O-]Cl(=O)(=O)=O, Inorganic
+Molecule_1050,1050,O=[V]=O, Inorganic
+Molecule_1085,1085,[Na+].[O-]P(O)(O)=O, Inorganic
+Molecule_1088,1088,[Al+3].[Al+3].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.O=[Ca].O=[Ca].O=[Ca].O=[Ca].O=[Ca].O=[Ca], Inorganic
+Molecule_1102,1102,[Cd]=[Te], Inorganic
+Molecule_1117,1117,[O-2].[O-2].[O-2].[O-2].[Ca+2].[Mo+6], Inorganic
+Molecule_1119,1119,N.N.[Cl-][Pd+2][Cl-], Inorganic
+Molecule_1125,1125,I[Cs], Inorganic
+Molecule_1135,1135,[F-].[Na+], Inorganic
+Molecule_1139,1139,[Cs+].[O-][N+]([O-])=O, Inorganic
+Molecule_1146,1146,[Li+].[Na+].[Mg+2].[O-][Si]([O-])([O-])[O-], Inorganic
+Molecule_1147,1147,[Pb+2].[O-][Ti]([O-])=O, Inorganic
+Molecule_1151,1151,[Fe+3].[Fe+3].[O-][Mo]([O-])(=O)=O.[O-][Mo]([O-])(=O)=O.[O-][Mo]([O-])(=O)=O, Inorganic
+Molecule_1155,1155,[Al+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O, Inorganic
+Molecule_1173,1173,[NH4+].[Br-], Inorganic
+Molecule_1181,1181,F[Zn]F, Inorganic
+Molecule_1195,1195,[Ba+2].[O-][Ti]([O-])=O, Inorganic
+Molecule_1196,1196,[Fe+3].[Fe+3].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O, Inorganic
+Molecule_1199,1199,[Cl-].[Cl-].[Pb+2], Inorganic
+Molecule_1201,1201,[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[Zn+2].[Zn+2].[Zn+2].[Zn+2].[Zn+2].[O-][Cr]([O-])(=O)=O, Inorganic
+Molecule_1203,1203,[Ag+].[Ag+].[O-]S([O-])(=O)=O, Inorganic
+Molecule_1216,1216,[Cl-].[Cl-].[Sr+2], Inorganic
+Molecule_1221,1221,O=[V]O[V]=O, Inorganic
+Molecule_1222,1222,[O-2].[O-2].[O-2].[O-2].[O-2].[Ti+4].[Zr+4].[Pb+2], Inorganic
+Molecule_1235,1235,[F-].[K+], Inorganic
+Molecule_1236,1236,[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Al+3].[Ca+2], Inorganic
+Molecule_1241,1241,[O-2].[O-2].[O-2].[O-2].[O-2].[Nb+5].[Nb+5], Inorganic
+Molecule_1247,1247,[Cl-].[Cl-].[Cl-].[Ce+3], Inorganic
+Molecule_1250,1250,[Na+].[Mg+2].[Al+3].[O-][Si]([O-])=O.[O-][Si]([O-])=O.[O-][Si]([O-])=O, Inorganic
+Molecule_1251,1251,[O-2].[O-2].[O-2].[Y+3].[Y+3], Inorganic
+Molecule_1263,1263,[V], Inorganic
+Molecule_1272,1272,[Si+4].[Si+4].[Si+4].[O-]P([O-])([O-])=O.[O-]P([O-])([O-])=O.[O-]P([O-])([O-])=O.[O-]P([O-])([O-])=O, Inorganic
+Molecule_1275,1275,[NH4+].[F-], Inorganic
+Molecule_1343,1343,[O-2].[O-2].[O-2].[O-2].[Al+3].[V+5], Inorganic
+Molecule_1381,1381,[O-2].[O-2].[O-2].[Na+].[Na+].[Ti+4], Inorganic
+Molecule_1384,1384,[Ba+2].[O-][Cr]([O-])(=O)=O, Inorganic
+Molecule_1385,1385,[OH-].[OH-].[OH-].[Cu+2].[Cu+2].[O-][N+]([O-])=O, Inorganic
+Molecule_1386,1386,[Mg+2].[O-]S([O-])(=O)=O, Inorganic
+Molecule_1388,1388,[Pb+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O, Inorganic
+Molecule_1389,1389,[NH4+].O=[V-](=O)=O, Inorganic
+Molecule_1405,1405,O[Ca]O, Inorganic
+Molecule_1411,1411,[F-].[F-].[Ba+2], Inorganic
+Molecule_1418,1418,[Na+].O=[Al-]=O, Inorganic
+Molecule_1422,1422,[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[K+].[Sb+3], Inorganic
+Molecule_1426,1426,[Cl-].[Cl-].[Fe+2], Inorganic
+Molecule_1432,1432,[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Fe+3].[Sr+2], Inorganic
+Molecule_1446,1446,S=[Sb]S[Sb]=S, Inorganic
+Molecule_1449,1449,[O-2].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[Bi+3].[Bi+3].[Bi+3].[Bi+3].[Bi+3].[O-]N(=O)=O.[O-]N(=O)=O.[O-]N(=O)=O.[O-]N(=O)=O, Inorganic
+Molecule_1464,1464,[K+].[O-][Si](O)=O, Inorganic
+Molecule_1469,1469,[F-].[F-].[F-].[Al+3], Inorganic
+Molecule_1478,1478,[Na+].[Na+].[O-]S(=O)(=O)OOS([O-])(=O)=O, Inorganic
+Molecule_1479,1479,[Na+].[O-]Cl=O, Inorganic
+Molecule_1497,1497,[Na+].[Na+].[O-][Se]([O-])=O, Inorganic
+Molecule_1505,1505,[Se] |^3:0|, Inorganic
+Molecule_1510,1510,[NH3+]O.[NH3+]O.[O-]S([O-])(=O)=O, Inorganic
+Molecule_1529,1529,[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Ca+2].[I-].[I-], Inorganic
+Molecule_1538,1538,[O-2].[O-2].[Zr+2], Inorganic
+Molecule_1544,1544,[Cl-].[Cl-].[Cu+2], Inorganic
+Molecule_1545,1545,[O-2].[OH-].[Al+3], Inorganic
+Molecule_1553,1553,NO, Inorganic
+Molecule_1557,1557,[Zn+2].[O-][Se]([O-])=O, Inorganic
+Molecule_1566,1566,[Ba+2].[O-]B=O.[O-]B=O, Inorganic
+Molecule_1567,1567,[O-2].[OH-].[OH-].[Mg+2].[Ca+2], Inorganic
+Molecule_1579,1579,[Zr], Inorganic
+Molecule_1580,1580,[O-2].[O-2].[O-2].[O-2].[Co+2].[Mo+6], Inorganic
+Molecule_1592,1592,[Mg], Inorganic
+Molecule_1598,1598,[Mn+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O, Inorganic
+Molecule_1612,1612,[Mg+2].[O-]S(=O)(=O)[S-], Inorganic
+Molecule_1625,1625,O[Bi](O)O, Inorganic
+Molecule_1657,1657,[Al+3].[K+].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O, Inorganic
+Molecule_1674,1674,[Hg], Inorganic
+Molecule_1680,1680,[Na+].[Na+].[Na+].[Na+].[O-]P([O-])(=O)OP([O-])([O-])=O, Inorganic
+Molecule_1693,1693,[Cs+].[Cs+].[O-]S([O-])(=O)=O, Inorganic
+Molecule_1730,1730,[H+].[H+].[F-].[F-].[F-].[F-].[F-].[F-].[Zr+4], Inorganic
+Molecule_1732,1732,[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[OH-].[OH-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].O=[W+3].O=[W+4].O=[W+4].O=[W+4].O=[W+4].O=[W+4].O=[W+4].O=[W+4].O=[W+4].O=[W+4].O=[W+4].O=[W+4], Inorganic
+Molecule_1743,1743,[Zn+2].[O-][Sn]([O-])=O, Inorganic
+Molecule_1755,1755,[Li+].[Li+].[Li+].[O-]P([O-])([O-])=O, Inorganic
+Molecule_1759,1759,ClCl, Inorganic
+Molecule_1771,1771,O=[Hf]=O, Inorganic
+Molecule_1789,1789,[Li] |^1:0|, Inorganic
+Molecule_1807,1807,[Al+3].[O-]P([O-])(=O)OP([O-])(=O)OP(O)(O)=O, Inorganic
+Molecule_1813,1813,[Zn], Inorganic
+Molecule_1819,1819,[Mn+2].[O-]P(O)(O)=O.[O-]P(O)(O)=O, Inorganic
+Molecule_1820,1820,O[As](O)(O)=O, Inorganic
+Molecule_1831,1831,[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[Al+3].[Al+3].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Zr+4].[Zr+4], Inorganic
+Molecule_1834,1834,[AlH3], Inorganic
+Molecule_1835,1835,[Pd+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O, Inorganic
+Molecule_1838,1838,[K+].[O-]P(O)=O, Inorganic
+Molecule_1850,1850,[NH4+].[NH4+].O.[O-]P([O-])O, Inorganic
+Molecule_1862,1862,[S-2].[Sr+2], Inorganic
+Molecule_1892,1892,[Ba+2].[O-][Se]([O-])=O, Inorganic
+Molecule_1897,1897,[Mn+2].[O-]S([O-])(=O)=O, Inorganic
+Molecule_1905,1905,[Pb+2].F[B-](F)(F)F.F[B-](F)(F)F, Inorganic
+Molecule_1917,1917,[Zn+2].[O-]S([O-])(=O)=O, Inorganic
+Molecule_1940,1940,[NH4+].[O-]Cl(=O)(=O)=O, Inorganic
+Molecule_1945,1945,[Na+].[Na+].[O-]P([O-])(O)=O, Inorganic
+Molecule_1955,1955,[Zr+4].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O, Inorganic
+Molecule_1969,1969,[Na+].[O-]Cl, Inorganic
+Molecule_1987,1987,[Na+].[Na+].[Na+].[O-]P([O-])([O-])=O, Inorganic
+Molecule_1994,1994,[Ni+2].[O-]S([O-])(=O)=O, Inorganic
+Molecule_1995,1995,[O-2].[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Ti+4], Inorganic
+Molecule_1996,1996,[O-2].[O-2].[O-2].[O-2].[O-2].[O-2].[Mg+2].[V+5].[V+5], Inorganic
+Molecule_2002,2002,[O-2].[O-2].[O-2].[O-2].[Ni+2].[Mo+6], Inorganic
+Molecule_2012,2012,[K+].[K+].F[Zr-2](F)(F)(F)(F)F, Inorganic
+Molecule_2032,2032,[Fe+3].[Fe+3].[Fe+3].[Fe+3].[O-]P([O-])(=O)OP([O-])([O-])=O.[O-]P([O-])(=O)OP([O-])([O-])=O.[O-]P([O-])(=O)OP([O-])([O-])=O, Inorganic
+Molecule_2036,2036,[Cl-].[Cs+], Inorganic
+Molecule_2057,2057,[Na+].[Na+].[O-][Se]([O-])(=O)=O, Inorganic
+Molecule_2075,2075,[Ca+2].[O-]S(=O)(=O)[S-], Inorganic
+Molecule_2104,2104,[Be]=O, Inorganic
+Molecule_2105,2105,[Al+3].[O-]B([O-])[O-], Inorganic
+Molecule_2107,2107,[OH-].[OH-].[Zn+2], Inorganic
+Molecule_2118,2118,[Cr], Inorganic
+Molecule_2119,2119,O=[Bi]O[Bi]=O, Inorganic
+Molecule_2122,2122,[Cl-].[Cl-].[Zn+2], Inorganic
+Molecule_2128,2128,[O-2].[Fe+2], Inorganic
+Molecule_2137,2137,[OH-].[K+], Inorganic
+Molecule_2138,2138,[O-2].[O-2].[Mg+2].[Ca+2], Inorganic
+Molecule_2140,2140,[Zn+2].[Zn+2].[Zn+2].[O-]P([O-])([O-])=O.[O-]P([O-])([O-])=O, Inorganic
+Molecule_2149,2149,[Hf], Inorganic
+Molecule_2162,2162,[NH4+].[NH4+].[Cl-].[Cl-].[Cl-].[Cl-].[Zn+2], Inorganic
+Molecule_2175,2175,[K+].[O-]S(O)(=O)=O, Inorganic
+Molecule_2182,2182,[Sr+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O, Inorganic
+Molecule_2204,2204,[Rb+].[O-][N+]([O-])=O, Inorganic
+Molecule_2221,2221,[Fe], Inorganic
+Molecule_2229,2229,Cl, Inorganic
+Molecule_2250,2250,[H+].[H+].O[Pt-2](O)(O)(O)(O)O, Inorganic
+Molecule_2256,2256,[Na+].[Na+].[O-][Si]([O-])=O, Inorganic
+Molecule_2260,2260,[O-2].[O-2].[O-2].[Mn+2].[Fe+3], Inorganic
+Molecule_2265,2265,[NH4+].[NH4+].[O-]P([O-])(=O)OP(O)(O)=O, Inorganic
+Molecule_2266,2266,[S-2].[Cu+2], Inorganic
+Molecule_2269,2269,[Na+].[Al+3].[O-][Si]([O-])=O.[O-][Si]([O-])=O, Inorganic
+Molecule_2273,2273,[Zn+2].[Br-].[Br-], Inorganic
+Molecule_2275,2275,[Na+].[O-]S(O)(=O)=O, Inorganic
+Molecule_2276,2276,[Cu]S[Cu], Inorganic
+Molecule_2298,2298,[F-].[F-].[Ni+2], Inorganic
+Molecule_2321,2321,[O-2].[O-2].[O-2].[O-2].[Al+3].[Al+3].[Ni+2], Inorganic
+Molecule_2337,2337,[K+].[K+].[O-]P([O-])=O, Inorganic
+Molecule_2348,2348,[Ni+2].[O-]P(O)(O)=O.[O-]P(O)(O)=O, Inorganic
+Molecule_2351,2351,Cl[Sn](Cl)(Cl)Cl, Inorganic
+Molecule_2361,2361,O=[Fe]O[Fe]=O, Inorganic
+Molecule_2364,2364,O=P(Cl)(Cl)Cl, Inorganic
+Molecule_2376,2376,O=S(=O)(Cl)Cl, Inorganic
+Molecule_2393,2393,OO, Inorganic
+Molecule_2400,2400,Cl[Al](Cl)Cl, Inorganic
+Molecule_2419,2419,Cl[Ti](Cl)(Cl)Cl, Inorganic
+Molecule_2433,2433,[Cl-].[Cl-].[Ca+2], Inorganic
+Molecule_2442,2442,[Cl-].[Cl-].[Cd+2], Inorganic
+Molecule_2450,2450,O[Cs], Inorganic
+Molecule_2456,2456,Cl[Zr](Cl)(Cl)Cl, Inorganic
+Molecule_2477,2477,NO.[O-][N+](O)=O, Inorganic
+Molecule_2493,2493,[Ca+2].[O-]Cl.[O-]Cl, Inorganic
+Molecule_103,103,, Failed parsing
+Molecule_295,295,, Failed parsing
+Molecule_480,480,, Failed parsing
+Molecule_796,796,, Failed parsing
+Molecule_870,870,, Failed parsing
+Molecule_1033,1033,, Failed parsing
+Molecule_1212,1212,, Failed parsing
+Molecule_1281,1281,, Failed parsing
+Molecule_1511,1511,, Failed parsing
+Molecule_1584,1584,, Failed parsing
+Molecule_1630,1630,, Failed parsing
+Molecule_1687,1687,, Failed parsing
+Molecule_1691,1691,, Failed parsing
+Molecule_1845,1845,, Failed parsing
+Molecule_1930,1930,, Failed parsing
+Molecule_1960,1960,, Failed parsing
+Molecule_1974,1974,, Failed parsing
+Molecule_1992,1992,, Failed parsing
+Molecule_2000,2000,, Failed parsing
+Molecule_2039,2039,, Failed parsing
+Molecule_2058,2058,, Failed parsing
+Molecule_2059,2059,, Failed parsing
+Molecule_2080,2080,, Failed parsing
+Molecule_2114,2114,, Failed parsing
+Molecule_2143,2143,, Failed parsing
+Molecule_2192,2192,, Failed parsing
+Molecule_2262,2262,, Failed parsing
+Molecule_2288,2288,, Failed parsing
+Molecule_2353,2353,, Failed parsing
+Molecule_222,222,,"element: bad valence on H having 1 drawn bonds, charge -1, and 0 radical electrons"
+Molecule_349,349,,"element: bad valence on N having 4 drawn bonds, charge 0, and 0 radical electrons"
+Molecule_600,600,,"element: bad valence on N having 4 drawn bonds, charge 0, and 0 radical electrons"
+Molecule_883,883,,"element: bad valence on F having 1 drawn bonds, charge -1, and 0 radical electrons"
+Molecule_1752,1752,,"element: bad valence on O having 3 drawn bonds, charge 0, and 0 radical electrons"
+Molecule_2041,2041,,"element: bad valence on N having 4 drawn bonds, charge 0, and 0 radical electrons"
+Molecule_2094,2094,,"element: bad valence on Mg having 0 drawn bonds, charge 1, and 0 radical electrons"
+Molecule_1623,1623,, No structure
+Molecule_2360,2360,, No structure
